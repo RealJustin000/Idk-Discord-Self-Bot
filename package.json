@@ -1,7 +1,7 @@
 {
-  "name": "empress",
+  "name": "IDK",
   "version": "1.0.0",
-  "description": "Empress Selfbot",
+  "description": "Justins forked bot",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
